@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+
+.row{
+    width: 1140px;
+    background-color: red;
+    margin: 0 auto;
+}
+
+
+.info{
+    height: 50vh;
+    background-color: rgb(41, 39, 39);
+}
+
+
+footer{
+    background-color: rgb(61, 60, 60);
+    height: 120px;
+    align-items: center;
+}
+
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
